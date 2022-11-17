@@ -1,6 +1,0 @@
-﻿  1,5.cpp
-D:\Visual Studio\1,5\1,5\1,5.cpp(65,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-D:\Visual Studio\1,5\1,5\1,5.cpp(129,14): warning C4244: return: преобразование "double" в "int", возможна потеря данных
-D:\Visual Studio\1,5\1,5\1,5.cpp(137,29): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-D:\Visual Studio\1,5\1,5\1,5.cpp(137,20): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
-  1,5.vcxproj -> D:\Visual Studio\1,5\Debug\1,5.exe
